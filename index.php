@@ -1,3 +1,1 @@
-<!DOCYPE HTML >
-<html>
-</html>
+
